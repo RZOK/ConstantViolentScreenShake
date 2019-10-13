@@ -1,0 +1,3 @@
+displayName = Constant Violent Screen Shake
+author = RandomZachOfKindness
+version = 1.0

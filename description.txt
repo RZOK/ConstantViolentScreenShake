@@ -1,0 +1,1 @@
+Constant Violent Screen Shake causes your screen to violently shake when ingame.
