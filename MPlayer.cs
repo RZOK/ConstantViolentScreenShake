@@ -21,7 +21,7 @@ namespace ConstantViolentScreenshake
     {
         public override void ModifyScreenPosition()
         {
-            Main.screenPosition += new Vector2(Main.rand.Next(-99, 100), Main.rand.Next(-99, 100));
+            Main.screenPosition += Utils.RandomVector2(Main.rand, Main.rand.Next(-199, 200), Main.rand.Next(-199, 200));
         }
     }
 }
